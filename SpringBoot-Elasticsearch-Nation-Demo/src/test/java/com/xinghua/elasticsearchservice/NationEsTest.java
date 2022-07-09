@@ -119,7 +119,7 @@ public class NationEsTest {
     }
 
     /**
-     * 批量新增问答对
+     * 批量新增Entry
      */
     @Test
     void batchInsertOrUpdate() {
